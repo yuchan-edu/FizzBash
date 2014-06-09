@@ -1,7 +1,7 @@
-FizzBuzz
+FizzBash
 ===================
 
-FizzBuzz written by Bash.
+Alternative FizzBuzz written by Bash.
 
 ## example
 
