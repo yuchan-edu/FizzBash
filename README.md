@@ -5,7 +5,7 @@ FizzBuzz written by Bash.
 
 ## example
 
-i=1; while [ $i -le 20 ];do ./fizzbuzz.bash $i; i=$(($i+1)) ;done
+i=1; while [ $i -le 20 ];do ./fizzbash.bash $i; i=$(($i+1)) ;done
 
 Result:
 
@@ -13,22 +13,22 @@ Result:
     2
     Fizz
     4
-    Buzz
+    Bash
     Fizz
     7
     8
     Fizz
-    Buzz
+    Bash
     11
     Fizz
     13
     14
-    FizzBuzz
+    FizzBash
     16
     17
     Fizz
     19
-    Buzz
+    Bash
 
 
 

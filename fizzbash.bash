@@ -1,6 +1,6 @@
 #!/bin/bash 
 if [[ $# -lt 1 ]]; then
-    echo "Usage: bash fizzbuzz.bash [number]"
+    echo "Usage: bash fizzbash.bash [number]"
     exit 1
 fi
 
@@ -9,7 +9,7 @@ if [ $(( $1 % 3 )) = 0 ]; then
     message=$message"Fizz"
 fi
 if [ $(( $1 % 5 )) = 0 ]; then
-    message=$message"Buzz"
+    message=$message"Bash"
 fi
 
 if [[ $message = "" ]]; then
@@ -17,7 +17,3 @@ if [[ $message = "" ]]; then
 else
     echo $message
 fi
-
-
-
-
