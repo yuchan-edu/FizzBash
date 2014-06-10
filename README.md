@@ -1,7 +1,7 @@
 FizzBash
 ===================
 
-Alternative FizzBuzz written by Bash.
+Yet another FizzBuzz written by Bash.
 This echos 'Bash', instead of 'Buzz'. 
 
 ## example
